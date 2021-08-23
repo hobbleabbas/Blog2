@@ -1,12 +1,11 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
+title: Unfinished - On Meritocratic Democracy
+date: 2021/8/21
+description: An idea for a better democratic system that accounts for the weight of a person's opinion
+tag: Philosophy
 ---
 
-# Markdown Examples
+# Why Foundation Is So Captivating
 
 ## h2 Heading
 
