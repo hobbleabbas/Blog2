@@ -1,11 +1,11 @@
 ---
-title: Unfinished - On Meritocratic Democracy
-date: 2021/8/21
-description: An idea for a better democratic system that accounts for the weight of a person's opinion
-tag: Philosophy
+title: Temp
+date: 2021/8/17
+description: Making the markets fairer by introducing a new way of investing in securities designed for small players.
+tag: Book Review
 ---
 
-# Why Foundation Is So Captivating
+# Article Coming Soon
 
 ## h2 Heading
 
