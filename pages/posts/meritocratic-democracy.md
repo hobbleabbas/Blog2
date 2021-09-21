@@ -83,11 +83,13 @@ We see the result in today's America, with a crippled federal government that ca
 
 A meritocratic system, at its core, is the most just one. It is a ideal of a system where people are selected solely based on their capabilities and merit (as the name suggests). This does not mean that it is the most equitable system - if two people work equally hard, it isn't equitable for the more capable one to be chosen. However, assuming good intention, it will allow for the best outcome (given that the best candidate is chosen).
 
-The system I am proposing is meritocratic democracy. There are a few core tenets of this system:
+The system I am proposing is meritocratic democracy. There are four core tenets of this system:
 
 1. Instead of comprehensive authorities, issues are dealt with by their respective experts
 2. A small central government exists solely to settle court cases and disputes between various fields, as well as ensure fields are working for the good of overall society
 3. Anyone can vote on a given issue, but how much one's vote is worth depends on how educated they are on a given topic.
+4. Optional taxes, where you choose to pay for services you'd like
+5. Weighted voting, where not everybody's vote is equal
 
 ### Local Field Experts
 
@@ -99,25 +101,56 @@ In effect, policies would be enacted not by a bureaucratic central authority, bu
 
 ### Small Central Government
 
-The second part of this system is a small central government that handles inter-field disputes and elements that can't feasibly be handled by experts without conflict of interest, such as a judicial system.
+The second part of this system is a small central government that handles inter-field disputes and elements that can't feasibly be handled by experts without conflict of interest, such as a judicial system, road construction, etc.
 
 The central government, unburdened by projects, would be used to ensure progress is being made and individual fields are acting in the best interest of society. To what extent they should be able to regulate individual fields is not something I have a particular belief about.
 
 ### Open Voting
 
-The last tenet of the meritocratic democratic system is open voting, where all issues are available to vote. This maintains the element of democracy, not allowing a small group to fully control any system. It also removes the element of partisanship - instead of voting for a single party that you most align with, you can actually individually assess each item on its own. This also, in my opinion, removes a major flaw with our current system where people agree with a policy solely because their party supports it. 
+The third part of the meritocratic democratic system is open voting, where all issues are available to vote. This maintains the element of democracy, not allowing a small group to fully control any system. It also removes the element of partisanship - instead of voting for a single party that you most align with, you can actually individually assess each item on its own. This also, in my opinion, removes a major flaw with our current system where people agree with a policy solely because their party supports it. 
 
-### Handling Conflict Of Interest
+### Optional Taxes
 
-### Risk And Drawbacks
+The fourth tenet of meritocratic democracy is optional taxes, where taxpayers can choose to pay a flat fee for services that they use. Doing this forces local fields to perform effectively or risk losing funding to taxpayers who can pay other groups providing the same service - for instance if my local medical system is doing a poor job, I can pay the next town for their service.
 
-The biggest downside to this system is that it assumes that people will act with the best intentions.
+This tenet has the most issues, from monopolistic services (such as roads) to underfunding in poorer areas.
 
-- define meritocracy
-- how would it work - local field experts
-- open but weighted voting
-- minimal centralized governance
-- How is vote weight determined
-- replacement of nationality with field (may not be feasible but would push more progress in individual categories)
-- risks and drawbacks
-- Powered by blockchain?
+### Weighted Voting
+
+The last tenet of meritocratic democracy is weighted voting. As per the Open Voting tenet, anybody can vote on any issue. However, it makes logical sense for people educated on a given topic to have more say. This brings up issues of equality, but as previously outlined the goal of meritocratic democracy is simply **maximum efficiency**. 
+
+Weighting would consider factors such as the profession of the voter (for example, a teacher would have more weight in an educational decision than a doctor, and a doctor would carry more weight on a medical issue), the degree of education (a specialist doctor would way more than a general doctor, but only on medical issues), and age.
+
+This allows a democratic system where everyone gets a say, but those most educated on a given topic have the most say.
+
+## How Meritocratic Democracy Solves Democracy's Problems
+
+The major issues with democracy, in my opinion, come down to improper representation and inefficient government. 
+
+In a meritocratic government, instead of a series of large state or federal governments, you would have small, local groups that both have skin in the game and are small enough to be nimble. This would allow a government to be far smaller and more efficient, focusing on a few core tasks including regulating fields, the judicial system, and foreign policy. 
+
+Open voting on every issue would allow people to vote on the issues they cared about irrespective of what a larger party aligned with. You can be socially liberal and fiscally conservative, support gay rights but also be pro life, etc.
+
+## Risks, Drawbacks, And Major Issues
+
+The biggest downside to this system is that it assumes that people will act with the best intentions. 
+
+### Conflict Of Interest
+
+One major issue with meritocratic democracy is risk of conflict of interest, where fields may make decisions better for them but not for society. For instance, a developer may zone a hospital in an area of maximum profit, rather than accessibility. 
+
+Meritocratic democracy would try to solve this in two ways. The first is because every issue is open voting, there is room for the public to have a say, enough to force parties to consider the optics and ethics of their actions. The second is that most issues that could have a conflict of interest would have multiple parties with conflicting goals - for instance a hospital would want to find a cheaper location for their own budget constraints. 
+
+### Weighting and voting manipulation
+
+One element I'm unsure about is how votes are weighted - on a medical issue, should a doctors vote be worth 1.5x more, 100x more, 1000x more? The actual weight difference is very subjective and difficult to define. This, as well as the timing of voting hours, could pose a major weakness and be prone to manipulation.
+
+### Inequality
+
+A meritocratic democracy would mean that while underrepresented groups get less say - the unemployed, less educated, and less wealthy would have, on average, less of a say on matters. However, the goal of the system is efficiency, not equality. 
+
+### Conclusion
+
+Meritocratic democracy is a new idea for a form of governance, one featuring many small field councils and a nimble central government. In a meritocratic democracy, your vote on various issues would be weighted on your knowledge on the issue itself. There is much to be worked out, including how votes are weighted, handling conflict of interest, and more.
+
+*This is an early draft of my essay. Please send any ideas or comments to [hobbleabbas@gmail.com](mailto:hobbleabbas@gmail.com).*
