@@ -1,5 +1,5 @@
 ---
-title: Meritocratic Democracy
+title: Meritocratic Democracy - Early Draft
 date: 2021/8/18
 description: A new system where not everyones vote is equal.
 tag: Philosophy
